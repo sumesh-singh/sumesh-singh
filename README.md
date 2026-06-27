@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hi, I'm Sumesh Singh 👋
@@ -21,7 +20,7 @@ Building scalable software, exploring AI/ML, and solving real-world problems thr
 
 ---
 
-# 👨‍💻 About Me
+# 👨💻 About Me
 
 - 🎓 MCA Student
 - 💻 Passionate about Software Development & AI
@@ -138,4 +137,3 @@ Building scalable software, exploring AI/ML, and solving real-world problems thr
 ⭐ If you like my work, consider giving my repositories a star!
 
 <sub>Badges powered by shieldcn • Stats powered by GitHub Readme Stats</sub>
-```
