@@ -1,91 +1,21 @@
-<!-- ================== -->
-<!-- -- Banner / Hero Image -->
-<!-- ================== -->
-<!-- <p align="center">
-  <img src="https://i.pinimg.com/736x/dc/b5/2c/dcb52cc6232be5383d2dc88783920aa7.jpg" height="100px" width="100px" alt="Hi there!" />
-</p> -->
+<div align="center">
 
-<!-- ================== -->
-<!-- -- Intro / Who I am -->
-<!-- ================== -->
-<h1 align="center">Hi, I’m Sumesh Singh 👋</h1>
-<p align="center">
-  <a href="https://github.com/sumesh-singh">
-    <img src="https://komarev.com/ghpvc/?username=sumesh-singh&color=blue" alt="Profile views" />
-  </a>
-</p>
+# Hi, I'm Sumesh Singh 👋
 
-<p align="center">
-  A passionate tech learner and builder currently exploring Python, ML, Web Development & System Design. Constantly improving problem solving + CS fundamentals.
-</p>
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40sumesh--singh-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/sumesh-singh) [![Twitter / X](https://www.shieldcn.dev/x/follow/sumesh13055.svg?variant=branded&size=sm)](https://x.com/sumesh13055) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40sumesh--singh--2a77531b3-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/sumesh-singh-2a77531b3)
 
-<!-- ================== -->
-<!-- -- Social Icons -->
-<!-- ================== -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sumesh-singh-2a77531b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sumesh Singh-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/sumesh13055" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@sumesh13055-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
-  </a>
-  <a href="mailto:sumesh13055@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sumesh13055@gmail.com-D44638?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</p>
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/sumesh-singh.svg?variant=secondary&size=sm)](https://github.com/sumesh-singh?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/sumesh-singh.svg?variant=secondary&size=sm)](https://github.com/sumesh-singh?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-21-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/sumesh-singh?tab=repositories)
 
-<!-- ================== -->
-<!-- -- What I’m learning -->
-<!-- ================== -->
-## 🧠 Currently Learning  
-- Advanced Python  
-- Algorithms / Data Structures  
-- Operating Systems & Networks  
-- ML Model Optimization  
+</div>
 
-<!-- ================== -->
-<!-- -- Skills / Tech Stack -->
-<!-- ================== -->
-## 🛠 Tech Stack  
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python • C++ • JavaScript |
-| **Web / Frameworks** | React • Node.js • Express • Next.js |
-| **ML / DS** | Scikit-Learn • Pandas • NumPy |
-| **Databases** | MongoDB • MySQL |
-| **Tools & DevOps** | Git • Docker • Postman |
+## 🛠️ Skills & Technologies
 
-<!-- ================== -->
-<!-- -- Highlights / Projects -->
-<!-- ================== -->
-## 📌 Featured Projects  
-<details>
-<summary>Click to expand</summary>
+![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&size=sm)
 
-| Project | Description | Link |
-|---------|-------------|------|
-| Revento Ticket Verse | Event-based ticketing & processing system built during hackathon | [GitHub](https://github.com/sumesh-singh/revento-ticket-verse-00) |
-| IoT BotNet Detection Research | Hybrid Ensemble Deep Learning model to improve threat detection | Private for now |
+## 📦 Top Repositories
 
-</details>
+[![lab_attendance_system ⭐ 1](https://www.shieldcn.dev/github/stars/sumesh-singh/lab_attendance_system.svg?variant=secondary&size=sm)](https://github.com/sumesh-singh/lab_attendance_system)
 
-<!-- ================== -->
-<!-- -- GitHub Stats and Visitor Badge -->
-<!-- ================== -->
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumesh-singh&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sumesh-singh.sumesh-singh" alt="Visitor Badge" />
-</p>
+---
 
-<!-- ================== -->
-<!-- -- Quote / CTA -->
-<!-- ================== -->
-> “Build things that matter. Learn every day.”  
-
-<!-- ================== -->
-<!-- -- Footer / thanks -->
-<!-- ================== -->
-## 💡 Let’s Connect  
-Thanks for stopping by! If you like my work, feel free to give my repositories a ⭐ and reach out if you’d like to collaborate.
-
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
